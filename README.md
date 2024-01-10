@@ -1,8 +1,6 @@
 ## Hello there. I am Kalu Stephen Eke. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<!-- 🚀 Check out my New Portfolio [islemmaboud.com](https://islemmaboud.com)  -->
-
-I'm a Full-Stack Developer with approximately 2 years experience, now diving into Artificial Intelligence and Robotics. I've built, cool stuff (fully or partly) for various clients, exploring everything from cybersecurity to cloud computing. Not trying to know it all – just enough to build intelligent, secure, and scalable apps. Oh, and I’m really into SEO too.
+I'm a Full-Stack Developer with approximately 2 years of experience, now diving into Artificial Intelligence and Robotics. I've built cool stuff (fully or partly) for various clients, exploring everything from Cybersecurity to Cloud computing. Not trying to know it all – just enough to build intelligent, secure, and scalable apps. Oh, and I’m really into SEO too.
 
  ## Find Me here:
  [![Linkedin Badge](https://img.shields.io/badge/-Stephen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalu-stephen-431882185) [![Mail Badge](https://img.shields.io/badge/-Stephen-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alphask37@gmail.com)
@@ -12,13 +10,12 @@ I'm a Full-Stack Developer with approximately 2 years experience, now diving int
 - **Academic Pursuit:** Studying at the University of Nottingham, working towards a Master's degree in Computer Science. <br /><br /> 
 - **Professional Work:** Serving as a freelance developer, collaborating with various clients to develop robust applications. <br /><br />
 - **Career Opportunities:** Actively seeking new opportunities and open to work in challenging environments. <br /><br />
-- **Skill Development:** Improving my knowledge in key areas including SEO, Cybersecurity, Progressive Web Apps, Next.js, and other technologies <br /><br />
+- **Skill Development:** Improving my knowledge in key areas including Next.js, SEO, Cybersecurity, Progressive Web Apps,  and other technologies <br /><br />
 - **Fun and Games:** An avid gamer with a keen interest in FIFA 23/24 and Board games <br />
 
 
 ## Top Languages and Tools
 
-<!-- TODO: Make technologies links takes you to repositories -->
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
