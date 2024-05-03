@@ -30,7 +30,6 @@ I am an aspiring AI Engineer with approximately two years of software developmen
 ### Databases
 [![SQL Badge](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=sql&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-<!-- [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#) -->
 [![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
 
 ### Visualisation
