@@ -10,7 +10,7 @@ I am an aspiring AI Engineer with approximately two years of software developmen
 - **Academic Pursuit:** Studying at the University of Nottingham, working towards a Master's degree in Computer Science with an Artificial Intelligence focus. <br /><br /> 
 - **Career Opportunities:** Actively seeking new opportunities and open to working in challenging environments. <br /><br />
 - **Skill Development:** Improving my knowledge in key areas including LLMs, Computer vision, Predictive modelling and research methods <br /><br />
-- **Fun and Games:** An avid gamer with a keen interest in FIFA 23/24 and Scrabble (Member, Association of British Scrabble Players) <br />
+- **Fun and Games:** An avid gamer with a keen interest in FIFA 23/24 and Scrabble <br />
 
 
 ## Top Languages and Tools
@@ -34,5 +34,5 @@ I am an aspiring AI Engineer with approximately two years of software developmen
 
 ### Visualisation
 [![Streamlit Badge](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-1E4E79?style=for-the-badge&logo=tableau&logoColor=white)](#)
+<!-- [![Tableau Badge](https://img.shields.io/badge/-Tableau-1E4E79?style=for-the-badge&logo=tableau&logoColor=white)](#)  -->
 <!-- [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) -->
