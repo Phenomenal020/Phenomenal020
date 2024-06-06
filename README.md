@@ -24,7 +24,7 @@ I am an aspiring AI Engineer with approximately two years of software developmen
 <!-- [![Vertex AI Badge](https://img.shields.io/badge/-VertexAI-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)  -->
 [![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](#)
 [![LangChain Badge](https://img.shields.io/badge/-LangChain-blue?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![ChatGPT Badge](https://img.shields.io/badge/-ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![Streamlit Badge](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
 
 ### Web Frameworks
