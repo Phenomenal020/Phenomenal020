@@ -13,29 +13,29 @@ I am an aspiring AI Engineer with approximately two years of software developmen
 - **Fun and Games:** An avid gamer with a keen interest in FIFA 23/24 and Scrabble <br />
 
 
-## Top Languages and Tools
+<!-- ## Top Languages and Tools -->
 
-### Programming Languages
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Matlab Badge](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](#)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+<!-- ### Programming Languages -->
+<!-- [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) -->
+<!-- [![Matlab Badge](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](#) -->
+<!-- [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#) -->
 
-### AI Frameworks
-<!-- [![Vertex AI Badge](https://img.shields.io/badge/-VertexAI-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)  -->
-[![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](#)
-[![LangChain Badge](https://img.shields.io/badge/-LangChain-blue?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![ChatGPT Badge](https://img.shields.io/badge/-OpenAI-00BFFF?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![Streamlit Badge](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+<!-- ### AI Frameworks -->
+<!-- [![Vertex AI Badge](https://img.shields.io/badge/-VertexAI-4285F4?style=for-the-badge&logo=google&logoColor=white)](#) -->
+<!-- [![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](#) -->
+<!-- [![LangChain Badge](https://img.shields.io/badge/-LangChain-blue?style=for-the-badge&logo=langchain&logoColor=white)](#) -->
+<!-- [![ChatGPT Badge](https://img.shields.io/badge/-OpenAI-00BFFF?style=for-the-badge&logo=openai&logoColor=white)](#) -->
+<!-- [![Streamlit Badge](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#) -->
 
-### Web Frameworks
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
-[![Next.js Badge](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+<!-- ### Web Frameworks -->
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#) -->
+<!-- [![Next.js Badge](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](#) -->
 
-### Databases
-[![SQL Badge](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=sql&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-<!--  [![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)  -->
+<!-- ### Databases -->
+<!-- [![SQL Badge](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=sql&logoColor=white)](#) -->
+<!-- [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#) -->
+<!-- [![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#) -->
 
-<!-- ### Visualisation  -->
-<!-- [![Tableau Badge](https://img.shields.io/badge/-Tableau-1E4E79?style=for-the-badge&logo=tableau&logoColor=white)](#)  -->
+<!-- ### Visualisation -->
+<!-- [![Tableau Badge](https://img.shields.io/badge/-Tableau-1E4E79?style=for-the-badge&logo=tableau&logoColor=white)](#) -->
 <!-- [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) -->
