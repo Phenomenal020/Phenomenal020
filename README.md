@@ -9,7 +9,7 @@ I am an aspiring AI Engineer with approximately two years of software developmen
 
 - **Academic Pursuit:** Studying at the University of Nottingham, working towards a Master's degree in Computer Science with an Artificial Intelligence focus. <br /><br /> 
 - **Career Opportunities:** Actively seeking new opportunities and open to working in challenging environments. <br /><br />
-- **Skill Development:** Improving my knowledge in key areas including LLMs, Computer vision, Predictive modelling and research methods <br /><br />
+- **Skill Development:** Improving my knowledge in key areas including applications of NLP and Computer vision in Robotics <br /><br />
 - **Fun and Games:** An avid gamer with a keen interest in FIFA 23/24 and Scrabble <br />
 
 
